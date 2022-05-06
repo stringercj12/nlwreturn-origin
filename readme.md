@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Git Explorer" src="./.github/preview.png" width="100%";>
+    <img alt="Git Explorer" src="./.github/preview.jpg" width="100%" />
 </p>
 
 <br>
@@ -15,6 +15,10 @@
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=00856F&labelColor=000000" alt="PRs welcome!" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=00856F&labelColor=000000">
+
+  <a href="https://www.linkedin.com/in/jefferson-ferreira-8218b0126/" target="_blank">
+    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Linkedin-Jefferson%20Ferreira-539bf5" />
+  </a>
 </p>
 
 <br>
@@ -34,7 +38,7 @@ DoctorCare é uma página institucional no formato One Page, responsiva, para us
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912263666619803). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912263666619803/DoctorCare). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
 
